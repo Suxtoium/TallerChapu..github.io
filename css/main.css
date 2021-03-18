@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    text-decoration: none;
+    font-style: helvetica;
+}
+/* AJUSTE DE ELEMENTOS DEL NAVBAR */
+#company-name{
+    color: #ffffff;
+}
+#frameHijo{
+    width: 500px;
+    height: 500px;
+}
+.nav-item{
+    height: 70px;
+}
+a{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.jumbotron-container{
+    height: 200px;
+    font-size: 20px;
+    font-style: Helvetica;
+    background-color: #a19999;
+}
+.card{
+    background-color: #a19999;
+    font-size: 20px;
+    font-style: Helvetica;
+}
+#navbarsExample01{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#shopping-cart{
+    margin-left: auto;
+    width: 55px;
+    height: 40px;
+}
+#list-text-content{
+    width: 125px;
+}
+header nav{
+    background: #414141;
+    color: #414141;
+}
+header nav div form input {
+    margin-right: 10px;
+}
+header nav a{
+    margin-left: 0%;
+}
+header nav div{
+    margin-left: 10%;
+}
+header nav form{
+    margin-left: 13%;
+}
+header nav button{
+    margin-right: 15px;
+}
+/* AJUSTES DEL FOOTER */
+footer{
+    background: #414141;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+}
+.content-foo{
+    text-align: center;
+}
+.content-foo h4{
+    color: #fff;
+    border-bottom: 3px solid #3220d3;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+.content-foo p{
+    color: #ccc;
+}
+.titulo-final{
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #ffffff;
+}
+#footer-buttons{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/* AJUSTES DEL CAROUSEL */
+#carousel-img{
+    height: 500px;
+}
+.carousel_container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+/* LISTA DE INICIO Y REGISTRO DE SESION */
+#lista_1 li {
+    margin-left: 0px;
+    display:inline;
+    padding-left:3px;
+    padding-right:3px;
+}
+/* AJUSTES DEL LOGIN */
+.form-signin{
+    margin-top: 10%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.form-control{
+    width: 250px;
+    margin-top: 10px;
+}
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container-fluid{
+    background: #414141;
+}
