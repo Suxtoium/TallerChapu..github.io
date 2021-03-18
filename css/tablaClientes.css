@@ -1,0 +1,11 @@
+table{
+    margin: auto;
+
+}
+th, td {
+    text-align: center;
+    margin: auto;
+    vertical-align: top;
+    border: 5px solid rgb(255, 255, 255);
+    border-spacing: 0;
+ }
